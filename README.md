@@ -49,7 +49,7 @@ Al final del día, mientras los personajes digitales descansaban en sus lares vi
 
 <hr/>
 
-###**Referencias y Bibliografia**
+### **Referencias y Bibliografia**
 
 *Classcraft, Wikipedia: la enciclopedia libre. [consulta: 13/12/2023].**
 \* *Disponible en:*[ ](https://es.wikipedia.org/wiki/Disco_compacto)https://es.wikipedia.org/wiki/Classcraft

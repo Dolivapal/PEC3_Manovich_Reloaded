@@ -58,3 +58,7 @@ Al final del día, mientras los personajes digitales descansaban en sus lares vi
 
 *Wikiloc, Wikipedia: la enciclopedia libre. [consulta: 13/12/2023].**
 \* *Disponible en:* https://es.wikipedia.org/wiki/Wikiloc
+
+``` markdown
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0
+```
